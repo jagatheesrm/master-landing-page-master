@@ -49,8 +49,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/jagatheesrm/master-landing-page-master.git))
+- Live Site URL: [Add live site URL here](https://jagatheesrm.github.io/master-landing-page-master/)
 
 ## My process
 
